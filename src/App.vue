@@ -12,7 +12,7 @@ const currentYear = new Date().getFullYear();
                 </a>
                 <div class="py-2 ps-3 pe-0">
                     <div class="d-flex my-2 my-lg-0">
-                        <a class="btn btn-primary" target="_blank" href="/tylergrow_accessibility_certificate.pdf" download>Download PDF</a>
+                        <a class="btn btn-primary" target="_blank" href="./tylergrow_accessibility_certificate.pdf" download>Download PDF</a>
                     </div>
                 </div>
             </div>
