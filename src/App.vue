@@ -30,7 +30,7 @@ const currentYear = new Date().getFullYear();
                                 <p class="mt-3 mb-0">This certificate from <a href="https://webaim.org" target="__blank">WebAIM</a> is verification of completed accessibility training by Tyler Grow.</p>
                             </div>
                         </div>
-                        <img src="/tylergrow_accessibility_certificate.png" class="card-img-bottom" alt="Tyler Grow WebAIM Verification of Accessibility Training Certificate">
+                        <img src="./assets/tylergrow_accessibility_certificate.png" class="card-img-bottom" alt="Tyler Grow WebAIM Verification of Accessibility Training Certificate">
                     </div>
                 </div>
 
