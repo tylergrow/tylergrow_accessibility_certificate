@@ -1,0 +1,62 @@
+{
+    "folders": [
+        {
+            "name": "tylergrow_webaim_accessibility_verification",
+            "path": "."
+        }
+    ],
+    "settings": {
+        "github.copilot.advanced": {
+            "indentationMode": {
+                "*": true
+            },
+            "inlineSuggestCount": 20,
+            "listCount": 20,
+            "length": 500
+        },
+        "files.exclude": {
+            "**/.git": true,
+            "**/.svn": true,
+            "**/.hg": true,
+            "**/CVS": true,
+            "**/.DS_Store": true,
+            "**/Thumbs.db": true,
+            "**/*.git": true,
+            "**/*.log": true,
+            "**/*package-lock.json": true,
+            "**/node_modules": true,
+            "**/.expo-shared": true,
+            "**/dist": false,
+            "/**/{.,_,__}*(donotuse|archive?(d)|ignore?(d)|old){*/*,*}?(.*)": true,
+            "**/.ignore/*": true,
+            "**/.ignore.*/*": true,
+            "**/.ignore.*": true,
+            "**/.old.*/*": true,
+            "**/.old.*": true,
+            ".git": true,
+            "**/.*": true,
+            "**/_archived": true
+        },
+        "cSpell.words": [
+            "asynciterable"
+        ],
+        "vue3snippets.enable-compile-vue-file-on-did-save-code": true,
+        "emmet.includeLanguages": {
+            "vue-html": "html",
+            "javascript": "javascript"
+        },
+        "explorerExclude.backup": {},
+        "liveSassCompile.settings.watchOnLaunch": false,
+        "liveSassCompile.settings.partialsList": [
+            "/**/*.s[ac]ss",
+            "/**/[!_]*.s[ac]ss"
+        ],
+        "liveSassCompile.settings.excludeList": [
+            "/**/node_modules/**",
+            "/.vscode/**",
+            "/**/*[_.](old|ignore|archive|archived|ignored).*"
+        ],
+        "liveSassCompile.settings.compileOnWatch": false,
+        "prettier.singleAttributePerLine": true
+    }
+}

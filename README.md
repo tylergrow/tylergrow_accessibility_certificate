@@ -1,9 +1,7 @@
-# Tyler Grow - Webaim Accessibility Training Verification
-This is a repository with a copy of my Webaim Accessibility Certification of Training (PDF). It's hosted here for convenience!
+# Vue 3 + Vite
 
-[View the PDF](https://raw.githubusercontent.com/tylergrow/tylergrow_accessibility_certificate/main/tylergrow_accessibility_certificate.pdf")
+This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-## What is Webaim?
-Visit [Webaim](https://webaim.org/) for more information.
+## Recommended IDE Setup
 
-
+- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
