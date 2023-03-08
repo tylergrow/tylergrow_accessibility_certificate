@@ -12,7 +12,7 @@ const currentYear = new Date().getFullYear();
                 </a>
                 <div class="py-2 ps-3 pe-0">
                     <div class="d-flex my-2 my-lg-0">
-                        <a class="btn btn-primary" target="_blank" href="./tylergrow_accessibility_certificate.pdf" download>Download PDF</a>
+                        <a class="btn btn-primary" target="_blank" href="/tylergrow_accessibility_certificate.pdf" download>Download PDF</a>
                     </div>
                 </div>
             </div>
@@ -30,7 +30,7 @@ const currentYear = new Date().getFullYear();
                                 <p class="mt-3 mb-0">This certificate from <a href="https://webaim.org" target="__blank">WebAIM</a> is verification of completed accessibility training by Tyler Grow.</p>
                             </div>
                         </div>
-                        <img src="./assets/tylergrow_accessibility_certificate.png" class="card-img-bottom" alt="Tyler Grow WebAIM Verification of Accessibility Training Certificate">
+                        <img src="/tylergrow_accessibility_certificate.png" class="card-img-bottom" alt="Tyler Grow WebAIM Verification of Accessibility Training Certificate">
                     </div>
                 </div>
 
